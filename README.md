@@ -62,7 +62,7 @@ Welcome to my GitHub! I'm a **software engineer** passionate about creating user
 _Web application that generates custom fitness programs._
 
 -   **Stack:** MySQL, React, Node.js, SCSS
--   [💻 Check out the repo](https://github.com/braedonrossum/tka-react)
+-   [💻 Check out the repo](https://github.com/braedonrossum/total-kinetic-advantage-frontend)
 
 ### 🌐 **Streaming Bundle Explorer**
 
